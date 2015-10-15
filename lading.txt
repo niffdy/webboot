@@ -1,4 +1,5 @@
 ﻿"https://raw.githubusercontent.com/niffdy/webboot/base.cmd"
 "https://raw.githubusercontent.com/niffdy/webboot/logs.cmd"
 "https://raw.githubusercontent.com/niffdy/webboot/patch.cmd"
+"https://raw.githubusercontent.com/niffdy/webboot/local.cmd"
 "https://raw.githubusercontent.com/niffdy/webboot/boot.cmd"
